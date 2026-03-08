@@ -26,7 +26,7 @@ Python Developer • AI Infrastructure Builder • Full-Stack Learner
 
 ⚡ Fun fact: I enjoy building tools that analyze computer systems in real time.
 
----
+
 
 🚀 Featured Project
 
@@ -66,7 +66,7 @@ Interactive dashboard that visualizes system metrics such as CPU, RAM usage, and
 
 Tech: React, FastAPI, Charts
 
----
+
 
 🧠 Current Focus
 
@@ -76,7 +76,7 @@ Tech: React, FastAPI, Charts
 • Machine Learning for System Intelligence
 • Automation Systems
 
----
+
 
 ⚡ Core Skills
 
@@ -87,7 +87,7 @@ Tech: React, FastAPI, Charts
 "Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 "MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
----
+
 
 🛠 Tech Stack
 
@@ -145,7 +145,7 @@ My interests include:
 • Automation and analytics tools
 • AI-assisted diagnostics
 
----
+
 
 🌐 Connect With Me
 
