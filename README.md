@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I'm Navaneeth S</h1><h3 align="center">
+<h1 align="center">👋 Hi, I'm Navaneeth </h1><h3 align="center">
 Python Developer • AI Infrastructure Builder • Full-Stack Learner
 </h3><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;AI+Infrastructure+Engineer;System+Monitoring+Developer;Full+Stack+Developer;Building+Smart+Infrastructure+Tools"/>
 </p><p align="center">
 <img src="https://komarev.com/ghpvc/?username=Nava-neeth&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>---
+</p>
 
 👨‍💻 About Me
 
@@ -48,7 +48,7 @@ Technologies Used
 
 Python • FastAPI • React • Recharts • SQLite • psutil • GPUtil
 
----
+
 
 🧩 Projects
 
@@ -58,7 +58,7 @@ Real-time infrastructure monitoring system with anomaly detection and automated 
 
 Tech: Python, FastAPI, React, Recharts, SQLite, psutil
 
----
+
 
 📊 System Performance Dashboard
 
@@ -107,32 +107,32 @@ Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>---
+</p>
 
 📊 GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nava-neeth&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nava-neeth&layout=compact&theme=tokyonight"/>
-</p>---
+</p>
 
 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Nava-neeth&theme=tokyonight"/>
-</p>---
+</p>
 
 📈 GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nava-neeth&theme=tokyo-night"/>
-</p>---
+</p>
 
 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>---
+</p>
 
 🧠 Developer Philosophy
 
@@ -153,6 +153,6 @@ My interests include:
 <a href="https://www.linkedin.com/in/navaneeth-s-b16100324">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-</p>---
+</p>
 
 ⭐ Passionate about building intelligent infrastructure systems using code.
